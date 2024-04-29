@@ -1,6 +1,6 @@
 # Q.Tuan_Tran_Official
 
-I made a demo for my official portfolio website using HTML, CSS, TypeScript, JavaScript, Bootstrap, and Angular framework to build this website.
+I made a demo for my official portfolio website using HTML, CSS, TypeScript, JavaScript, Bootstrap, and Angular framework.<br><br>
 
 # 💫 About Me:
 I am an international student in Canada, majoring in Game Development. Besides, I dabble in Web Development and digital art. Feel free to contact me for work or anything else.<br>
